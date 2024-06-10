@@ -57,9 +57,13 @@
   display: flex;
   align-items: center;
 }
+.blog-post-header3-navlink {
+  display: contents;
+}
 .blog-post-header3-icon {
   width: 24px;
   height: 24px;
+  text-decoration: none;
 }
 .blog-post-header3-breadcrumbs1 {
   gap: var(--dl-space-space-halfunit);
